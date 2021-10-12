@@ -11,7 +11,8 @@
 <img align="left" width="26px" height="26px" src="https://image.flaticon.com/icons/png/128/919/919842.png"/>
 <img align="left" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/4223"/>
 <img align="left" width="26px" height="26px" src="https://wiki.postgresql.org/images/a/ac/PostgreSQL_logo.1color_white.120x120.png"/>
-<img align="left" width="26px" height="26px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?fit=260%2C260&ssl=1"/>
+<img align="left" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" width="26px" src="https://javamaster.it/wp-content/uploads/2020/06/Moby-logo1.png" />
 <br>
 <br>
