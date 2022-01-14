@@ -1,6 +1,2 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Miłosz</h1>
 
-<h1 align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Mozi&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" />
-</h1>
-
+![Metrics](https://metrics.lecoq.io/AI-Mozi?template=classic&isocalendar=1&languages=1&stars=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Europe%2FWarsaw&config.display=large)
